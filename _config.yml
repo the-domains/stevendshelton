@@ -1,0 +1,28 @@
+name: stevendshelton
+favicon: null
+layout_spectrum: 0.14564666827209294
+typography_spectrum: 0.4918546490371227
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6486757777165622
+  lightness: 0.21793286525644362
+  saturation: 0.34313929569907486
+  rhythmicContrast: 0.9727422799915075
+purpose: []
