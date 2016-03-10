@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[stevendshelton]]></title>
         <description><![CDATA[stevendshelton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stevendshelton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 00:19:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 00:27:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stevendshelton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[antebellum blues]]></title>
+            <description><![CDATA[<article><h1>antebellum blues</h1><p>A union conceived of</p></article>]]></description>
+            <link>https://thegrid.ai/stevendshelton/antebellum-blues/index.html</link>
+            <guid isPermaLink="false">813cf992-4a6a-43d2-aa30-90cb82288fc2</guid>
+            <pubDate>Thu, 10 Mar 2016 00:27:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefineddf388971-7b95-4e92-a84f-eed67766b442/index.html</link>
+            <description><![CDATA[<p>The Shape of Love</p>]]></description>
+            <link>https://thegrid.ai/stevendshelton/df388971-7b95-4e92-a84f-eed67766b442/index.html</link>
             <guid isPermaLink="false">df388971-7b95-4e92-a84f-eed67766b442</guid>
             <pubDate>Thu, 10 Mar 2016 00:19:37 GMT</pubDate>
         </item>
