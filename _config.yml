@@ -1,4 +1,4 @@
-name: stevendshelton
+name: Waiting 4 Godot
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.2504
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.6486757777165622
-  lightness: 0.21793286525644362
-  saturation: 0.34313929569907486
+    - '#7b797a'
+    - '#5a595e'
+    - '#999a9e'
+    - '#1c1d17'
+    - '#ffffff'
+  brandStrength: 0.0625
+  lightness: 0.6875
+  saturation: 0.125
   rhythmicContrast: 0.75
 purpose: []
