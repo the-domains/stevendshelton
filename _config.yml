@@ -1,6 +1,6 @@
 name: Steven D. Shelton
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.7503
 typography_spectrum: 0.2504
 title: Steven D. Shelton
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#6f7d5c'
-    - '#0f110c'
-    - '#c8ccbb'
-    - '#fc5426'
+    - '#ae9e84'
+    - '#191410'
+    - '#874e3a'
+    - '#898083'
+    - '#9e6a5c'
   brandStrength: 0.125
   lightness: 0.6875
   saturation: 0.1875
