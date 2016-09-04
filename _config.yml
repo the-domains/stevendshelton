@@ -25,14 +25,14 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: The Shape of Love
-    id: df388971-7b95-4e92-a84f-eed67766b442
-    type: content
   - name: antebellum blues
     id: 813cf992-4a6a-43d2-aa30-90cb82288fc2
     type: content
   - name: Beautiful Scars
     id: acef9c97-19a7-4c01-b56a-8835d6f0d87f
+    type: content
+  - name: The Shape of Love
+    id: df388971-7b95-4e92-a84f-eed67766b442
     type: content
   - name: Is This Seat Taken?
     id: 3af629f8-b4c7-42c5-a00b-fed5ca3d622f
