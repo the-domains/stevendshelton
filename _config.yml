@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Photography
+    id: 88dcc5e4-f4ea-4711-8fe0-21d99d880868
+    type: content
 favicon: null
 title: Steven D. Shelton
 purpose: []
