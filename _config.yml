@@ -34,6 +34,9 @@ navigation:
   - name: Beautiful Scars
     id: acef9c97-19a7-4c01-b56a-8835d6f0d87f
     type: content
+  - name: Is This Seat Taken?
+    id: 3af629f8-b4c7-42c5-a00b-fed5ca3d622f
+    type: content
 favicon: null
 title: Steven D. Shelton
 purpose: []
