@@ -1,78 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Things done while waiting for Godot]]></title>
-        <description><![CDATA[Things done while waiting for Godot]]></description>
-        <link>https://thegrid.ai/stevendshelton/</link>
+        <title><![CDATA[Steven D. Shelton]]></title>
+        <description><![CDATA[Steven D. Shelton]]></description>
+        <link>http://stevendshelton.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 02:51:09 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/stevendshelton/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab6d45bc-4683-4812-ac70-b05073cfa15e.jpg">]]></description>
-            <link>https://thegrid.ai/stevendshelton/88dcc5e4-f4ea-4711-8fe0-21d99d880868/index.html</link>
-            <guid isPermaLink="false">88dcc5e4-f4ea-4711-8fe0-21d99d880868</guid>
-            <pubDate>Thu, 10 Mar 2016 02:49:54 GMT</pubDate>
-        </item>
+        <lastBuildDate>Thu, 01 Sep 2016 13:19:20 GMT</lastBuildDate>
+        <atom:link href="http://stevendshelton.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02e28945-bec0-4a0f-9078-c49e0dc586b5.jpg">]]></description>
-            <link>https://thegrid.ai/stevendshelton/896a7af4-f68c-464e-aebd-943cba422f1c/index.html</link>
+            <link>http://stevendshelton.com/896a7af4-f68c-464e-aebd-943cba422f1c/index.html</link>
             <guid isPermaLink="false">896a7af4-f68c-464e-aebd-943cba422f1c</guid>
             <pubDate>Thu, 10 Mar 2016 02:48:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4799b4c-60cc-4def-b1a3-f8780a62221a.jpg">]]></description>
-            <link>https://thegrid.ai/stevendshelton/38d998f4-151f-4b26-a15a-0e5d8db791cc/index.html</link>
+            <link>http://stevendshelton.com/38d998f4-151f-4b26-a15a-0e5d8db791cc/index.html</link>
             <guid isPermaLink="false">38d998f4-151f-4b26-a15a-0e5d8db791cc</guid>
             <pubDate>Thu, 10 Mar 2016 02:47:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b92dc5c3-b6be-4141-8ba1-4359b64d13f4.jpg">]]></description>
-            <link>https://thegrid.ai/stevendshelton/125444d0-c117-405c-9e34-b117582d24e7/index.html</link>
+            <link>http://stevendshelton.com/125444d0-c117-405c-9e34-b117582d24e7/index.html</link>
             <guid isPermaLink="false">125444d0-c117-405c-9e34-b117582d24e7</guid>
             <pubDate>Thu, 10 Mar 2016 02:46:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83bad675-6181-4fff-9f49-558ea16ddf5d.jpg">]]></description>
-            <link>https://thegrid.ai/stevendshelton/6ca3cfcf-3a47-4e98-bb5f-3f9a60cbba2f/index.html</link>
+            <link>http://stevendshelton.com/6ca3cfcf-3a47-4e98-bb5f-3f9a60cbba2f/index.html</link>
             <guid isPermaLink="false">6ca3cfcf-3a47-4e98-bb5f-3f9a60cbba2f</guid>
             <pubDate>Thu, 10 Mar 2016 02:45:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53c9e95a-4c35-4556-bef3-7d53c978b661.jpg">]]></description>
-            <link>https://thegrid.ai/stevendshelton/c9ede7b0-f0c2-4708-9721-3c8800349a02/index.html</link>
+            <link>http://stevendshelton.com/c9ede7b0-f0c2-4708-9721-3c8800349a02/index.html</link>
             <guid isPermaLink="false">c9ede7b0-f0c2-4708-9721-3c8800349a02</guid>
             <pubDate>Thu, 10 Mar 2016 02:44:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0f76fea-46d5-463e-a03e-41b3dcebaa4d.jpg">]]></description>
-            <link>https://thegrid.ai/stevendshelton/bf3dfe5e-d519-465d-9939-10efc955940b/index.html</link>
+            <link>http://stevendshelton.com/bf3dfe5e-d519-465d-9939-10efc955940b/index.html</link>
             <guid isPermaLink="false">bf3dfe5e-d519-465d-9939-10efc955940b</guid>
             <pubDate>Thu, 10 Mar 2016 02:43:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4c91194-24c7-4f71-ad95-32599365290a.jpg">]]></description>
-            <link>https://thegrid.ai/stevendshelton/20d95c79-d6b2-4df7-a641-57a1d83b5cfd/index.html</link>
+            <link>http://stevendshelton.com/20d95c79-d6b2-4df7-a641-57a1d83b5cfd/index.html</link>
             <guid isPermaLink="false">20d95c79-d6b2-4df7-a641-57a1d83b5cfd</guid>
             <pubDate>Thu, 10 Mar 2016 02:41:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59350b74-dde7-4922-b93a-69d88308eedb.jpg">]]></description>
-            <link>https://thegrid.ai/stevendshelton/c4cce2e7-d09b-4834-b7f4-543f14ca8626/index.html</link>
+            <link>http://stevendshelton.com/c4cce2e7-d09b-4834-b7f4-543f14ca8626/index.html</link>
             <guid isPermaLink="false">c4cce2e7-d09b-4834-b7f4-543f14ca8626</guid>
             <pubDate>Thu, 10 Mar 2016 02:40:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77ba2c58-826b-4345-9b55-d8085b46b2e4.jpg">]]></description>
-            <link>https://thegrid.ai/stevendshelton/b8e5d563-daa4-4fef-b069-d754f6847936/index.html</link>
+            <link>http://stevendshelton.com/b8e5d563-daa4-4fef-b069-d754f6847936/index.html</link>
             <guid isPermaLink="false">b8e5d563-daa4-4fef-b069-d754f6847936</guid>
             <pubDate>Thu, 10 Mar 2016 02:39:16 GMT</pubDate>
         </item>
