@@ -1,25 +1,21 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-10T02:13:10.620Z'
-dateModified: '2016-03-10T02:13:08.537Z'
-title: Beautiful scars
+description: in bark so
+datePublished: '2016-09-01T13:23:32.423Z'
+dateModified: '2016-09-01T13:23:32.122Z'
+title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-03-10-beautiful-scars.md
-published: true
+authors: []
+publisher: {}
+via: {}
+starred: false
 url: beautiful-scars/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 in bark so
