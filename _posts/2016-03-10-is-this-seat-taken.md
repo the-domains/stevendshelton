@@ -3,21 +3,17 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: "He moves like a homing pigeon toward their usual spot at the farthest end of the bar, then stops to stare at two strangers sitting in their bar stools.\_ \"Where will we sit\" she asks again.\_ He missed her first plaintive question and only barely heard the repeated request never even seeing the puppy-like look in her eyes.\_ His shoulders slump as he waves wordlessly to the middle section of the bar.\_ She follows.\_ He roughly yanks out the stool and others turn wincing at the straining sound of metal feet on the concrete floor.\_ After some noisy adjustment, he pulls himself into the seat and the vinyl and joints of the chair and its occupant groan settling in unison.\_ She waits staring down at the floor and then gently pulls her stool beside him, lifting her small frame into its lap.\_ He continues to stare down the bar away from her and toward the invading strangers, shifting in his seat. She points to the television \"Ohh, look it's the funny commercial you like\".\_ Ignoring her and without making eye contact with the bar staff , he calls out \"Give me the usual\"\_ His attention still anchored at the far end of the bar. \"The usual\" she calls back yanking two bottles of Bud from the icy depths of the chest and popping them open in succession with a magician's flair."
-datePublished: '2016-03-10T00:50:14.487Z'
-dateModified: '2016-03-10T00:49:18.202Z'
-title: Is This Seat Taken?
+datePublished: '2016-09-01T13:23:42.433Z'
+dateModified: '2016-09-01T13:23:41.804Z'
+title: ''
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-03-10-is-this-seat-taken.md
-published: true
+via: {}
+starred: false
 url: is-this-seat-taken/index.html
 _type: Article
 
