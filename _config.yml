@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: The Shape of Love
+    id: df388971-7b95-4e92-a84f-eed67766b442
+    type: content
 favicon: null
 title: Steven D. Shelton
 purpose: []
