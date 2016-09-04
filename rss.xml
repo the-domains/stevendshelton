@@ -4,8 +4,15 @@
         <description><![CDATA[Steven D. Shelton]]></description>
         <link>http://stevendshelton.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 13:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 13:23:46 GMT</lastBuildDate>
         <atom:link href="http://stevendshelton.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[antebellum blues]]></title>
+            <description><![CDATA[<p>A union conceived of</p>]]></description>
+            <link>http://stevendshelton.com/antebellum-blues/index.html</link>
+            <guid isPermaLink="false">813cf992-4a6a-43d2-aa30-90cb82288fc2</guid>
+            <pubDate>Thu, 01 Sep 2016 13:23:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Shape of Love]]></title>
             <description><![CDATA[<p>Double braids rest like laurel upon her head. A blend of</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://stevendshelton.com/c4cce2e7-d09b-4834-b7f4-543f14ca8626/index.html</link>
             <guid isPermaLink="false">c4cce2e7-d09b-4834-b7f4-543f14ca8626</guid>
             <pubDate>Thu, 10 Mar 2016 02:40:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77ba2c58-826b-4345-9b55-d8085b46b2e4.jpg">]]></description>
-            <link>http://stevendshelton.com/b8e5d563-daa4-4fef-b069-d754f6847936/index.html</link>
-            <guid isPermaLink="false">b8e5d563-daa4-4fef-b069-d754f6847936</guid>
-            <pubDate>Thu, 10 Mar 2016 02:39:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
