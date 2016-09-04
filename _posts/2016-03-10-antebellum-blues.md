@@ -3,21 +3,17 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: A union conceived of
-datePublished: '2016-03-10T00:27:08.639Z'
-dateModified: '2016-03-10T00:27:04.506Z'
-title: antebellum blues
+datePublished: '2016-09-01T13:23:15.124Z'
+dateModified: '2016-09-01T13:23:14.847Z'
+title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-03-10-antebellum-blues.md
-published: true
+authors: []
+publisher: {}
+via: {}
+starred: false
 url: antebellum-blues/index.html
 _type: Article
 
